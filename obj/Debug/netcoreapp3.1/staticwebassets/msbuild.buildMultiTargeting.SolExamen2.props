@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\SolExamen2.props" />
+</Project>
